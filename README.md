@@ -1,2 +1,2 @@
 # Banco-de-Dados
-  First steps, working with Node.js
+  First steps, working with SQL
